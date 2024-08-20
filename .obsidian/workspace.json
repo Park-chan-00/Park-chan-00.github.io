@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-20-와-원신.md",
+                "file": "2019-08-08-text-and-typography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-20-와-원신.md",
+                "file": "2019-08-08-text-and-typography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-20-와-원신.md"
+                "file": "2019-08-08-text-and-typography.md"
               }
             }
           }
@@ -164,13 +164,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72ce0fad21cac053",
+  "active": "bdd93db0699811fd",
   "lastOpenFiles": [
+    "2024-08-20-와-원신.md",
     "2019-08-08-text-and-typography.md",
     "posts/20190808/mockup.png.md",
     "posts/20190808",
     "posts",
-    "2024-08-20-와-원신.md",
     "2019-08-08-write-a-new-post.md",
     "2024-08-20-포스팅-테스트-1.md",
     "Pasted image 20240820155724.png",
