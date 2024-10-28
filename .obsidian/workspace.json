@@ -132,9 +132,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Pasted image 20240820155724.png"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Pasted image 20240820155724"
             }
           }
         ]
@@ -154,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2d3887c5e5a76a4",
+  "active": "945eb15669a65613",
   "lastOpenFiles": [
     "2024-08-20-와-원신.md",
     "2019-08-08-text-and-typography.md",
